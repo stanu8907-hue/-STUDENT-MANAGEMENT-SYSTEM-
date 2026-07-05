@@ -1,0 +1,143 @@
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:1
+enter the roll number: 101
+enter the name: Tanvi
+enter your age: 19
+enter course: btech
+enter the marks: 98
+student added successfully
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:2
+
+Roll    Name    Age     Course  Marks
+---------------------------------------------
+101      Tanvi   19      btech   98
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:1
+enter the roll number: 102
+enter the name: tanuj
+enter your age: 19
+enter course: btech
+enter the marks: 94
+student added successfully
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:2
+
+Roll    Name    Age     Course  Marks
+---------------------------------------------
+101      Tanvi   19      btech   98
+102      tanuj   19      btech   94
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:1
+enter the roll number: 103
+enter the name: tanu
+enter your age: 19
+enter course: btech
+enter the marks: 99
+student added successfully
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:2
+
+Roll    Name    Age     Course  Marks
+---------------------------------------------
+101      Tanvi   19      btech   98
+102      tanuj   19      btech   94
+103      tanu    19      btech   99
+
+==== STUDENT MANAGEMENT SYSTEM ====
+1. add student
+2.view student
+3.search student
+4.update student
+5.delete student
+6.calculate grade
+7.display topper
+8.count students
+9.exit
+entr choice:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
